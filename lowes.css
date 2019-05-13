@@ -1,0 +1,92 @@
+/*
+	Authors: Alberto Villareal, Julian Arvizu
+	Date: 04/24/19
+	Class: CSC 337
+	Summary: This is the css for the lowes final prject,
+	this project is designed to locate, add and remove pallets
+	for inventory. This css uses the divs created in both javascript
+	and html we used this to add color, images and overrall postions 
+	of the different divs we used in this project.
+
+*/
+body{
+	background-color: #00008B;
+}
+#lowespic{
+	background-image: url("lowes3.jpg");
+	background-size: auto;
+	background-repeat: no-repeat;
+	height: 600px;
+}
+#lowesinfo{
+	text-align: center;
+}
+#login{
+	background-color: #FFFAF0;
+	width: 250px;
+	border-radius: 15px;
+	margin:40px;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content:  center;
+}
+#logo{
+	margin: 10px;
+	width: 200px;
+}
+#submitlogin{
+	
+}
+#bigDiv{
+	display: flex;
+	flex-direction: row;
+	padding:50px;
+}
+#palletstuff{
+	padding-right: 100px;
+}
+#logininfo{
+	margin: 20px;
+	display: flex;
+	flex-direction: column;
+	width: 25%;
+}
+.aisles{
+	display: flex;
+	justify-content:  right;
+
+}
+.aisle-row{
+	border: 2px white dashed;
+	background-color: white;
+}
+.aisle-item{
+	border: 2px blue dashed;
+	width: 40px;
+	height: 45px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.aisle-row .black{
+	border: None;
+	background-color: black;
+	width: 100%;
+	height: 49px;
+}
+.RED{
+	background-color: red;
+}
+.YELLOW{
+	background-color: yellow;
+}
+#optionsForm label, #options, #filtersForm label, #addDiv, #lowesinfo{
+	margin: 5px;
+	color: white;
+}
+#addDiv{
+	display: flex;
+	flex-direction: column;
+}

@@ -1,0 +1,71 @@
+Location, Type, Brand, Item #, Item Name, Dyelot, Size
+36L:1, Tile, Ceramic, 868169, Acadia Brown, A4, 104
+36L:2, Tile, Porcelain, 782449,  Woods Vintage Gray, C50, 300
+36L:3, Laminate, Timbercraft ,864888, Crest Ridge Hickory, None, 60
+36L:4, Tile, Mosaic, 355358, subway tile white, B67, 1200
+36L:5, Laminate,QuickStep, 246517, Toasted Chestnut, None, 40
+36L:6, Tile, Ceramic, 868169, Acadia Brown, A3, 100
+36L:7, Vinyl, Ultra, 813594, Woodford Oak, None, 22
+36L:8, Tile, Mosaic, 71657, Mesa Mosaic, K40, 500
+37R:1, Mortar,Mortar, 12639, Floor Tile, None, 24
+37R:2, Mortar, Mortar, 12940, Large Format & Wall White, None, 36
+37R:3, Laminate, Style Selections, 170656, Toffee Oak, None, 40
+37R:4, Laminate, Timbercraft ,864888, Crest Ridge Hickory, None, 60
+37R:5, Mortar, Mortar, 12955, Ceramic Gray, None, 36
+37R:6, Mortar, Mortar, 12955, Ceramic Gray, None, 36
+37R:7, Laminate,QuickStep, 936291, Restoration Oak, None, 40
+37R:8, Tile, Ceramic, 868169, Acadia Brown, A4, 208
+37L:1, Laminate, Timbercraft, 864889, West Lake Oak, None, 48
+37L:2, Laminate, Timbercraft, 864889, West Lake Oak, None, 24
+37L:3, Vinyl, Pro, 1035292, Burbank Oak, None, 40
+37L:4, Mortar, Mortar, 12591, Large Tile & Stone White, None, 40
+37L:5, Vinyl, Armstrong, 253218, Chatsworth, None, 48
+37L:6, Tile, Ceramic, 868169, Acadia Brown, A5, 208
+37L:7, Tile, Ceramic, 868169, Acadia Brown, A5, 208
+37L:8, Mortar, Mortar, 12955, Ceramic Gray, None, 36
+38R:1, Vinyl, Ultra, 813596, Blue Ridge Pine, None, 30
+38R:2, Vinyl, Natural, 1051337, Timber Creek Oak, None, 50
+38R:3 , Tile, Porcelain, 782449, Woods Vintage Gray, C50, 252
+38R:4, Laminate, Style Selections, 170656, Toffee Oak, None, 36
+38R:5, Laminate,QuickStep, 936292, Glenwood Oak, None, 50
+38R:6, Tile, Porcelain, 41191, Mesa Beige, B12, 408
+38R:7, Vinyl, Ultra, 813595, Lexington Oak, None, 34
+38L:8, Laminate,QuickStep, 936292, Glenwood Oak, None, 40
+38L:1, Tile, Porcelain, 576702, Woods natural, B13, 253
+38L:2, Tile, Porcelain, 576702, Woods natural, B12, 253
+38L:3, Vinyl, Stainmaster, 737999, Handscraped Retreat, None, 24
+38L:4, Mortar, Mortar, 12639, Floor Tile, None, 36
+38L:5, Laminate, Style Selections,  528976, Tavern Oak, None, 30
+38L:6, Tile, Porcelain, 41191, Mesa Beige, B13, 408
+38L:7, Tile, Porcelain, 576702, Woods natural, B12, 253
+38R:8, Mortar, Mortar, 13428, Porcelain Gray, None, 36
+39L:1, Vinyl, Reg, 534153, Rustic Hickory, None, 40
+39L:2, Tile, Porcelain, 683079, Skyros Gray, E7, 208
+39L:3, Tile, Porcelain, 683079, Skyros Gray, E10, 300
+39L:4, Tile, Porcelain, 782439, Woodstory Natural Oak, D8, 400
+39L:5, Tile, Porcelain, 683079, Skyros Gray, E4, 200
+39L:6, Laminate, Style Selections, 623723, Natural Walnut, None, 40
+39L:7, Mortar, Mortar, 12949, Ceramic White, None, 30
+39L:8, Tile, Porcelain, 782439, Woodstory Natural Oak, D7, 362
+39R:1, Laminate, Timbercraft, 864891, Wheaton Oak, None, 40
+39R:2, Laminate, Profolio, 1209521, Trenton Oak,  None, 50
+39R:3, Laminate, Allen + Roth, 936287, Meadow Oak, None, 48
+39R:4, Laminate, Allen + Roth, 936286, Marvino Hickory, None, 48
+39R:5, Vinyl, Ultra, 813596, Blue Ridge Pine, None, 32
+39R:6, Tile, Porcelain, 576702, Woods natural, B12, 80
+39R:7, Tile, Porcelain, 782439, Woodstory Natural Oak, D6, 362
+39R:8, Tile, Porcelain, 782439, Woodstory Natural Oak, D6, 362
+40R:1, Mortar, Mortar, 13485, Porcelain White, None, 24
+40R:2, Mortar, Mortar, 1103731, Large Format Gray, None, 30
+40R:3, Mortar, Mortar, 13666, Rapid Setting Gray, None, 24
+40R:4, Vinyl, Pro, 1035293, Claremont Oak, None, 36
+40R:5, Vinyl, Pro, 1035293, Claremont Oak, None, 36
+40R:6, Vinyl, Shaw, 516565, Resort Teak, None, 55
+40R:7, Tile, Porcelain, 782439, Woodstory Natural Oak, D6, 362
+
+undefined, undefined, undefined, undefined, undefined, undefined, undefined
+undefined, undefined, undefined, undefined, undefined, undefined, undefined
+undefined, undefined, undefined, undefined, undefined, undefined, undefined
+undefined, undefined, undefined, undefined, undefined, undefined, undefined
+undefined, undefined, undefined, undefined, undefined, undefined, undefined
+undefined, undefined, undefined, undefined, undefined, undefined, undefined
